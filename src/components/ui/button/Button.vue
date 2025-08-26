@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <script setup>
 import { Primitive } from "radix-vue";
 import { buttonVariants } from ".";
